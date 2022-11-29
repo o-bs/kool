@@ -1,5 +1,5 @@
-#Kjapp, kjip, kjempekompakt kompiskompilert kommandoliste!
-##Git log
+# Kjapp, kjip, kjempekompakt kompiskompilert kommandoliste!
+## Git log
 
 $ git log
 
